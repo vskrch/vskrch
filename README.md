@@ -4,14 +4,13 @@
 
 ## I'm a Student, Developer
 
-- 🔭 I’m currently working with [Romaeris Corp][website]!
+- 🔭 I’m currently working with [Romaeris Corporation][website]!
 - 🌱 I’m currently learning ReactJS,ES6-JS,Python,Machine Learning!!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with others for Projects
+- ⚡ Hobbies: Listening Music 🎧, Gym 💪 , Cooking 👨‍🍳 :) 
 
 
-### Connect with me:
+### Connect with me :
 
 [<img align="left" alt="weblogo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vskrch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

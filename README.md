@@ -6,7 +6,7 @@
 
 - 🔭 I’m  a Full Stack Developer [Profile][website]!
 - 🎓 I'm currently Pursuing Master's degree- Digital Transformation & Innovation / IT-Computing @Uottawa 🎓🎉
-- 🌱 I’m currently learning  ReactJS,ES6-JS,Python,Machine Learning!!
+- 🌱 I’m currently learning  ReactJS,ES6-JS,Python,DIstributed Computing!!
 - 👯 I’m looking to collaborate with others for Projects
 - ⚡ Hobbies: Listening to Music 🎧, Building stuff, Gym 💪 , Cooking 👨‍🍳 :) 
 

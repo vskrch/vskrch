@@ -2,7 +2,7 @@
 
 
 
-## I'm a Student, Developer
+## I'm a  Developer
 
 - 🔭 I’m  a Full Stack Developer [Profile][website]!
 - 🎓 I'm currently Pursuing Master's degree- Digital Transformation & Innovation / IT-Computing @Uottawa 🎓🎉

@@ -5,7 +5,8 @@
 ## I'm a  Developer
 
 - 🔭 I’m  a Full Stack Developer [Profile][website]!
-- 🎓 I'm currently Pursuing Master's degree- Digital Transformation & Innovation / IT-Computing @Uottawa 🎓🎉
+- 🎓 I've graduated with  Master's degree- Digital Transformation & Innovation / IT-Computing  from Uottawa,Canada :canada: 🎓🎉 
+-     BTech Computer Science from K L University, IN	
 - 🌱 I’m currently learning  ReactJS,ES6-JS,Python,DIstributed Computing!!
 - 👯 I’m looking to collaborate with others for Projects
 - ⚡ Hobbies: Listening to Music 🎧, Building stuff, Gym 💪 , Cooking 👨‍🍳 :) 
@@ -43,10 +44,5 @@
 ---
 
 
-
-
-
 [website]: https://linkedin.com/in/vskrch
-[twitter]: https://twitter.com/vskrch
-[instagram]: https://instagram.com/venkatasaikrishna_ch
 [linkedin]: https://linkedin.com/in/vskrch

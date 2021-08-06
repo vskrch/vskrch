@@ -6,7 +6,7 @@
 
 - 🔭 I’m  a Full Stack Developer [Profile][website]!
 - 🎓 I've graduated with  Master's degree- Digital Transformation & Innovation / IT-Computing  from Uottawa,Canada :canada: 🎓🎉 
--     BTech Computer Science from K L University, IN	
+- 🎓 BTech Computer Science from K L University, IN	
 - 🌱 I’m currently learning  ReactJS,ES6-JS,Python,DIstributed Computing!!
 - 👯 I’m looking to collaborate with others for Projects
 - ⚡ Hobbies: Listening to Music 🎧, Building stuff, Gym 💪 , Cooking 👨‍🍳 :) 
@@ -15,9 +15,8 @@
 ### Connect with me :
 
 [<img align="left" alt="weblogo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vskrch | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 

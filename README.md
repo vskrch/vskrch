@@ -1,7 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi,%20I'm%20Kris%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Venkata%20Sai%20Krishna%20%E2%80%A2%20Full%20Stack%20Developer%20%26%20AI%20Tinkerer&descAlignY=56&descSize=18&v=2" width="100%" alt="header"/>
+# Hi, I'm Kris 👋
+
+### Venkata Sai Krishna &nbsp;·&nbsp; Full Stack Developer &amp; AI Tinkerer &nbsp;🇨🇦
 
 <a href="https://linkedin.com/in/vskrch">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=Building+things+that+actually+ship+%F0%9F%9A%80;Python+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+Rust;AI+agents%2C+developer+tools+%26+media+infra;Always+learning.+Always+building." alt="typing"/>
@@ -106,7 +108,5 @@
 <br/><br/>
 
 <i>⭐ Thanks for stopping by — let's build something great!</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&v=2" width="100%" alt="footer"/>
 
 </div>
